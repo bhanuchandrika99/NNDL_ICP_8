@@ -3,7 +3,7 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 
 Name: Bhanu Chandrika Lakkimsetti ID: 700747439
 
-Code File - NNDL_ICP_8.ipynb Document- NNDL_ICP_8.DOCX Video Link: 
+Code File - NNDL_ICP_8.ipynb Document- NNDL_ICP_8.DOCX Video Link: https://drive.google.com/file/d/1tNV_w1EKEPcaDEizNaumIBNUwHFei57L/view?usp=sharing
 
 Use Case Description:
 LeNet5, AlexNet, Vgg16, Vgg19
